@@ -1,7 +1,7 @@
 {
 	"name": "Pyxi",
 	"version": "1.0",
-	"description": "The Pyxi Colors Theme",
+	"description": "Something",
 	"color": "#6666FF",
 	"authors": [
 		{
@@ -10,7 +10,7 @@
 		}
 	],
 	"theme_color_map": {
-		"KEYBOARD": ["#303446", "#303446"],
+		"KEYBOARD": ["#21263d", "#21263d"],
 		"ACTIVITY_CARD_BACKGROUND": ["#30EBFA", "#30EBFA"],
 		"BACKGROUND_ACCENT": ["#292c3c", "#292c3c"],
 		"BACKGROUND_FLOATING": ["#292c3c", "#292c3c"],
