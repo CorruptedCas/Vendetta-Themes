@@ -10,7 +10,7 @@
 		}
 	],
 	"theme_color_map": {
-		"KEYBOARD": ["#21263d", "#21263d"],
+		"KEYBOARD": ["#6666FF", "#21263d"],
 		"ACTIVITY_CARD_BACKGROUND": ["#21263d", "#21263d"],
 		"BACKGROUND_ACCENT": ["#6666FF", "#6666FF"],
 		"BACKGROUND_FLOATING": ["#1a2140", "#1a2140"],
