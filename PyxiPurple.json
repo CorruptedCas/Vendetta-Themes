@@ -131,7 +131,11 @@
         "CHAT_BACKGROUND": [
             "#141414",
             "#ffffff"
-        ]
+        ],
+        "STATUS_DND": [
+            "#c57fff",
+            "#c57fff"
+      ]
     },
     "rawColors": {
         "PRIMARY_500": "#c68bf7",
