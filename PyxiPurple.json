@@ -145,9 +145,9 @@
         "PRIMARY_700": "#101010",
         "PRIMARY_800": "#1C2120",
         "BRAND_500": "#9f6fc9",
-        "RED_500": "#c57fff",
-        "YELLOW_500": "#76d8ff",
-        "GREEN_600": "#44fad3"
+        "RED_400": "#c57fff",
+        "YELLOW_300": "#76d8ff",
+        "GREEN_360": "#44fad3"
     },
     "background": {
         "blur": 0.5,
