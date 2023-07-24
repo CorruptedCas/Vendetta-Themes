@@ -1,9 +1,9 @@
 {
-    "name": "PyxiPurple",
-    "description": "Purple UwU.",
+    "name": "Pyxi Purple",
+    "description": "I love purple so much UwU",
     "authors": [
         {
-            "name": "Pyxi",
+            "name": "Casziel",
             "id": "254623459190112257"
         }
     ],
@@ -148,8 +148,7 @@
     },
     "background": {
         "blur": 0.5,
-        "url": "https://media.discordapp.net/attachments/929794464866775120/1132489580541644890/IMG_0329.jpg",
-        "alpha": 0.3
+        "url": "https://media.discordapp.net/attachments/929794464866775120/1132489580541644890/IMG_0329.jpg"
     },
     "spec": 2
 }
