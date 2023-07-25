@@ -147,15 +147,9 @@
         "BRAND_500": "#9f6fc9"
     },
     "background": {
-<<<<<<< HEAD
         "blur": 0.5,
         "url": "https://media.discordapp.net/attachments/929794464866775120/1132489580541644890/IMG_0329.jpg",
-        "alpha": 0.7
-=======
-        "blur": 0.2,
-        "url": "https://media.discordapp.net/attachments/929794464866775120/1132489580541644890/IMG_0329.jpg",
-        "alpha": 0.3
->>>>>>> 77aa45180edd7c4bea995f1cb9410c721c5cd2ff
+        "alpha": 0.2
     },
     "spec": 2
 }
