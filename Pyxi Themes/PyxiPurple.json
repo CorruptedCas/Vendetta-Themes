@@ -17,7 +17,7 @@
             "#4f5660"
         ],
         "TEXT_NORMAL": [
-            "#FBFBFB",
+            "#a87cf7",
             "#2e3338"
         ],
         "TEXT_MUTED": [
@@ -25,8 +25,8 @@
             "#747f8d"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9463ba",
-            "#4f5660"
+            "#a87cf7",
+            "#a87cf7"
         ],
         "INTERACTIVE_HOVER": [
             "#dcddde",
