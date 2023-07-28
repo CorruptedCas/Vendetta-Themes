@@ -128,10 +128,6 @@
             "#141414",
             "#FFFFFF"
         ],
-        "clyde-profile-banner": [
-            "#000000",
-            "#FFFFFF"
-        ],
         "CHAT_BACKGROUND": [
             "#141414",
             "#ffffff"
@@ -150,6 +146,14 @@
         "PRIMARY_800": "#1C2120",
         "BRAND_500": "#9f6fc9"
     },
+    "plus": {
+	"version": 0,
+	"icons": {
+		"img_account_sync_spotify_light_and_dark": [
+			"#A87CF7"
+		]
+	}
+},
     "background": {
         "blur": 0.5,
         "url": "https://media.discordapp.net/attachments/929794464866775120/1132489580541644890/IMG_0329.jpg",
