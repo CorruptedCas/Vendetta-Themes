@@ -93,7 +93,7 @@
             "hsla(214, 9.9%, 50.4%, 0.24)"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "rgba(255, 255, 255, 0.08)",
+            "rgba(255, 255, 255)",
             "hsla(240, 7.7%, 2.5%, 0.08)"
         ],
         "SCROLLBAR_THIN_THUMB": [
@@ -148,7 +148,7 @@
     },
     "background": {
         "url": "https://media.discordapp.net/attachments/929794464866775120/1132489580541644890/IMG_0329.jpg",
-        "alpha": 0.6
+        "alpha": 2
     },
     "spec": 2
 }
