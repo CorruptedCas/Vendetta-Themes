@@ -85,7 +85,7 @@
             "hsla(214, 9.9%, 50.4%, 0.08)"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "rgba(255, 255, 255, 0.03)",
+            "rgba(255, 255, 255)",
             "hsla(214, 9.9%, 50.4%, 0.16)"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
@@ -129,7 +129,7 @@
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#141414",
+            "#ffffff",
             "#ffffff"
         ]
     },
@@ -148,7 +148,7 @@
     },
     "background": {
         "url": "https://media.discordapp.net/attachments/929794464866775120/1132489580541644890/IMG_0329.jpg",
-        "alpha": 2
+        "alpha": 0.1
     },
     "spec": 2
 }
