@@ -23,21 +23,26 @@
             "#48326e"
         ],
         "TEXT_DANGER": [
-            "#536cd4"
+            "#48326e",
+            "#48326e"
         ],
         "TEXT_LINK": [
-            "#536cd4"
+            "#48326e",
+            "#48326e"
         ],
         "INTERACTIVE_NORMAL": [
-            "#a87cf7"
+            "#a87cf7",
+            "a87cf7"
         ],
         "INTERACTIVE_HOVER": [
+            "#48326e",
             "#48326e"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
+            "#48326e",
             "#48326e"
         ],
         "BACKGROUND_PRIMARY": [
