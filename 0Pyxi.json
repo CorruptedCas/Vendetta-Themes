@@ -1,10 +1,10 @@
 {
-    "name": "TheEveningSkies",
-    "description": "As if you're staring at the sunset.",
+    "name": "PyxiPurple_Redo",
+    "description": "I love purple too much :3",
     "authors": [
         {
-            "name": "Ari",
-            "id": "639959347518242821"
+            "name": "Lillie",
+            "id": "254623459190112257"
         }
     ],
     "semanticColors": {
@@ -15,10 +15,11 @@
             "#b8b8b8"
         ],
         "TEXT_NORMAL": [
+            "#a87cf7",
             "#a87cf7"
         ],
         "TEXT_MUTED": [
-            "#b1b1b1"
+            "#48326e"
         ],
         "TEXT_DANGER": [
             "#536cd4"
@@ -27,76 +28,76 @@
             "#536cd4"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b8b8b8"
+            "#a87cf7"
         ],
         "INTERACTIVE_HOVER": [
-            "#DCDDDE"
+            "#48326e"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#969696"
+            "#48326e"
         ],
         "BACKGROUND_PRIMARY": [
-            "#080D21"
+            "#141414"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0F152C"
+            "#141414"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0F152C"
+            "#141414"
         ],
         "BACKGROUND_TERTIARY": [
-            "#080D21"
+            "#141414"
         ],
         "BACKGROUND_ACCENT": [
-            "#080D21"
+            "#141414"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#080D21"
+            "#141414"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0F152C"
+            "#141414"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0F152C"
+            "#141414"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0F152C"
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#0F152C"
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#131D46"
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0F152C"
+            "#141414"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#0F152C"
+            "#141414"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#080D21"
+            "#141414"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#080D21"
+            "#141414"
         ],
         "KEYBOARD": [
-            "#080D21"
+            "#141414"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ffffff"
         ],
         "CHANNEL_ICON": [
-            "#b8b8b8"
+            "#a87cf7"
         ],
         "CHANNELS_DEFAULT": [
-            "#b8b8b8"
+            "#a87cf7"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
