@@ -41,7 +41,7 @@
             "#48326e"
         ],
         "BACKGROUND_PRIMARY": [
-            "#14141401"
+            "#141414"
         ],
         "BACKGROUND_SECONDARY": [
             "#141414"
@@ -134,7 +134,7 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/emojis/1185365161134010389.gif",
+    "url": "https://media.discordapp.net/attachments/929794464866775120/1190632864413384734/IMG_2253.png",
     "alpha": 0.42
   },
     "spec": 2
