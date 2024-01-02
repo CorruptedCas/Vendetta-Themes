@@ -152,8 +152,7 @@
 },
     "background": {
         "blur": 0.5,
-        "url": "https://media.discordapp.net/attachments/929794464866775120/1189947811895185508/IMG_2244.png",
-        "alpha": 0.2
+        "url": "https://media.discordapp.net/attachments/929794464866775120/1189947811895185508/IMG_2244.png"
     },
     "spec": 2
 }
