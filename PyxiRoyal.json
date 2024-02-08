@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#ff003c"
+      "#3c00ff"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#19142c"
@@ -45,16 +45,16 @@
       "#19142c"
       ],
       "BORDER_FAINT": [
-      "#ff003c"
+      "#3c00ff"
       ],
       "BORDER_STRONG": [
-      "#ff003c"
+      "#3c00ff"
       ],      
       "BORDER_SUBTLE": [
-      "#ff003c"
+      "#3c00ff"
       ],
       "CHANNEL_ICON": [
-      "#ff003c"
+      "#3c00ff"
       ],
       "CHANNELS_DEFAULT": [
       "#72eaf8"
@@ -72,7 +72,7 @@
       "#19142c"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#f3e600"
+      "#00e6ff"
       ],
       "INTERACTIVE_HOVER": [
       "#72eaf8"
@@ -90,13 +90,13 @@
       "#120707"
       ],
       "TEXT_DANGER": [
-      "#ff003c"
+      "#3c00ff"
       ],
       "TEXT_LINK": [
-      "#f3e600"
+      "#00e6ff"
       ],
       "TEXT_MUTED": [
-      "#ff003c"
+      "#3c00ff"
       ],
       "TEXT_NORMAL": [
       "#ac88fc"
@@ -112,91 +112,91 @@
       ]
     },
     "rawColors": {
-      "BRAND_260": "#f3e600",
-      "BRAND_360": "#ff003c",
-      "BRAND_500": "#f3e600",
+      "BRAND_260": "#00e6ff",
+      "BRAND_360": "#3c00ff",
+      "BRAND_500": "#00e6ff",
       "GREEN_100": "#72eaf8",
-      "GREEN_130": "#f3e600",
-      "GREEN_160": "#f3e600",
-      "GREEN_200": "#f3e600",
-      "GREEN_230": "#f3e600",
-      "GREEN_260": "#f3e600",
-      "GREEN_300": "#f3e600",
-      "GREEN_330": "#f3e600",
-      "GREEN_345": "#f3e600",
-      "GREEN_360": "#f3e600",
-      "GREEN_400": "#f3e600",
-      "GREEN_430": "#f3e600",
-      "GREEN_460": "#f3e600",
-      "GREEN_500": "#f3e600",
-      "GREEN_530": "#f3e600",
-      "GREEN_560": "#f3e600",
-      "GREEN_600": "#f3e600",
-      "GREEN_630": "#f3e600",
-      "GREEN_660": "#f3e600",
-      "GREEN_700": "#f3e600",
-      "GREEN_730": "#f3e600",
-      "GREEN_760": "#f3e600",
-      "GREEN_800": "#f3e600",
-      "GREEN_830": "#f3e600",
-      "GREEN_860": "#f3e600",
-      "GREEN_900": "#f3e600",
-      "GUILD_BOOSTING_PINK": "#ff003c",   
-      "GUILD_BOOSTING_PURPLE": "#ff003c",
-      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ff003c",
+      "GREEN_130": "#00e6ff",
+      "GREEN_160": "#00e6ff",
+      "GREEN_200": "#00e6ff",
+      "GREEN_230": "#00e6ff",
+      "GREEN_260": "#00e6ff",
+      "GREEN_300": "#00e6ff",
+      "GREEN_330": "#00e6ff",
+      "GREEN_345": "#00e6ff",
+      "GREEN_360": "#00e6ff",
+      "GREEN_400": "#00e6ff",
+      "GREEN_430": "#00e6ff",
+      "GREEN_460": "#00e6ff",
+      "GREEN_500": "#00e6ff",
+      "GREEN_530": "#00e6ff",
+      "GREEN_560": "#00e6ff",
+      "GREEN_600": "#00e6ff",
+      "GREEN_630": "#00e6ff",
+      "GREEN_660": "#00e6ff",
+      "GREEN_700": "#00e6ff",
+      "GREEN_730": "#00e6ff",
+      "GREEN_760": "#00e6ff",
+      "GREEN_800": "#00e6ff",
+      "GREEN_830": "#00e6ff",
+      "GREEN_860": "#00e6ff",
+      "GREEN_900": "#00e6ff",
+      "GUILD_BOOSTING_PINK": "#3c00ff",   
+      "GUILD_BOOSTING_PURPLE": "#3c00ff",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#3c00ff",
       "PRIMARY_100": "#610017",
-      "PRIMARY_230": "#ff003c",
+      "PRIMARY_230": "#3c00ff",
       "PRIMARY_300": "#72eaf8",
       "PRIMARY_360": "#72eaf8",    
       "PRIMARY_400": "#72eaf8",
       "PRIMARY_460": "#19142c",
-      "PRIMARY_500": "#ff003c",
+      "PRIMARY_500": "#3c00ff",
       "PRIMARY_600": "#19142c",
       "PRIMARY_630": "#19142c",
       "PRIMARY_660": "#19142c",
       "PRIMARY_700": "#19142c",
       "PRIMARY_800": "#19142c",
-      "RED_260": "#f3e600",
-      "RED_300": "#f3e600",
-      "RED_330": "#f3e600",
-      "RED_345": "#f3e600",
-      "RED_360": "#f3e600",
-      "RED_400": "#f3e600",
-      "RED_430": "#f3e600",
-      "RED_460": "#f3e600",
-      "RED_500": "#f3e600",
-      "RED_530": "#f3e600",
-      "RED_560": "#f3e600",
-      "RED_600": "#f3e600",
-      "RED_630": "#f3e600",
-      "RED_660": "#f3e600",
-      "RED_700": "#f3e600",
-      "YELLOW_100": "#ff003c",
-      "YELLOW_130": "#ff003c",
-      "YELLOW_160": "#ff003c",
-      "YELLOW_200": "#ff003c",
-      "YELLOW_230": "#ff003c",
-      "YELLOW_260": "#ff003c",
-      "YELLOW_300": "#ff003c4d",
-      "YELLOW_330": "#ff003c",
-      "YELLOW_345": "#ff003c",
-      "YELLOW_360": "#ff003c",
-      "YELLOW_400": "#ff003c",
-      "YELLOW_430": "#ff003c",
-      "YELLOW_460": "#ff003c",
-      "YELLOW_500": "#ff003c",
-      "YELLOW_530": "#ff003c",
-      "YELLOW_560": "#ff003c",
-      "YELLOW_600": "#ff003c",
-      "YELLOW_630": "#ff003c",
-      "YELLOW_660": "#ff003c",
-      "YELLOW_700": "#ff003c",
-      "YELLOW_730": "#ff003c",
-      "YELLOW_760": "#ff003c",
-      "YELLOW_800": "#ff003c",
-      "YELLOW_830": "#ff003c",
-      "YELLOW_860": "#ff003c",
-      "YELLOW_900": "#ff003c",
+      "RED_260": "#00e6ff",
+      "RED_300": "#00e6ff",
+      "RED_330": "#00e6ff",
+      "RED_345": "#00e6ff",
+      "RED_360": "#00e6ff",
+      "RED_400": "#00e6ff",
+      "RED_430": "#00e6ff",
+      "RED_460": "#00e6ff",
+      "RED_500": "#00e6ff",
+      "RED_530": "#00e6ff",
+      "RED_560": "#00e6ff",
+      "RED_600": "#00e6ff",
+      "RED_630": "#00e6ff",
+      "RED_660": "#00e6ff",
+      "RED_700": "#00e6ff",
+      "YELLOW_100": "#3c00ff",
+      "YELLOW_130": "#3c00ff",
+      "YELLOW_160": "#3c00ff",
+      "YELLOW_200": "#3c00ff",
+      "YELLOW_230": "#3c00ff",
+      "YELLOW_260": "#3c00ff",
+      "YELLOW_300": "#3c00ff4d",
+      "YELLOW_330": "#3c00ff",
+      "YELLOW_345": "#3c00ff",
+      "YELLOW_360": "#3c00ff",
+      "YELLOW_400": "#3c00ff",
+      "YELLOW_430": "#3c00ff",
+      "YELLOW_460": "#3c00ff",
+      "YELLOW_500": "#3c00ff",
+      "YELLOW_530": "#3c00ff",
+      "YELLOW_560": "#3c00ff",
+      "YELLOW_600": "#3c00ff",
+      "YELLOW_630": "#3c00ff",
+      "YELLOW_660": "#3c00ff",
+      "YELLOW_700": "#3c00ff",
+      "YELLOW_730": "#3c00ff",
+      "YELLOW_760": "#3c00ff",
+      "YELLOW_800": "#3c00ff",
+      "YELLOW_830": "#3c00ff",
+      "YELLOW_860": "#3c00ff",
+      "YELLOW_900": "#3c00ff",
       "WHITE_500": "#ac88fc",
        "PLUM_13": "#181818",
         "PLUM_15": "#19142c",
