@@ -45,13 +45,13 @@
       "#19142c"
       ],
       "BORDER_FAINT": [
-      "#3c00ff50"
+      "#3c00ff90"
       ],
       "BORDER_STRONG": [
-      "#3c00ff50"
+      "#3c00ff90"
       ],      
       "BORDER_SUBTLE": [
-      "#3c00ff50"
+      "#3c00ff90"
       ],
       "CHANNEL_ICON": [
       "#ac88fc"
@@ -96,7 +96,7 @@
       "#00e6ff"
       ],
       "TEXT_MUTED": [
-      "#3c00ff"
+      "#6666ff"
       ],
       "TEXT_NORMAL": [
       "#ac88fc"
