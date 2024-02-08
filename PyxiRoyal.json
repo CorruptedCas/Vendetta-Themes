@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#3c00ff"
+      "#ac88fc"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#19142c"
@@ -141,9 +141,6 @@
       "GREEN_830": "#00e6ff",
       "GREEN_860": "#00e6ff",
       "GREEN_900": "#00e6ff",
-      "GUILD_BOOSTING_PINK": "#3c00ff",   
-      "GUILD_BOOSTING_PURPLE": "#3c00ff",
-      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#3c00ff",
       "PRIMARY_100": "#610017",
       "PRIMARY_230": "#3c00ff",
       "PRIMARY_300": "#72eaf8",
