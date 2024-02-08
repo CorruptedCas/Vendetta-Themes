@@ -1,6 +1,6 @@
 {
     "name": "PyxiRoyal",
-    "description": "Theme built around Cyberpunk 2077 HUD",
+    "description": "Pyxi Royal - Blues, Purples and Gold.",
     "authors": [
       {
         "name": "Lillie",
@@ -45,43 +45,43 @@
       "#19142c"
       ],
       "BORDER_FAINT": [
-      "#3c00ff"
+      "#3c00ff50"
       ],
       "BORDER_STRONG": [
-      "#3c00ff"
+      "#3c00ff50"
       ],      
       "BORDER_SUBTLE": [
-      "#3c00ff"
+      "#3c00ff50"
       ],
       "CHANNEL_ICON": [
-      "#3c00ff"
+      "#ac88fc"
       ],
       "CHANNELS_DEFAULT": [
-      "#72eaf8"
+      "#ac88fc"
       ],
       "CHAT_BACKGROUND": [
       "#19142c"
       ],
       "HEADER_PRIMARY": [
-      "#72eaf8"
+      "#ac88fc"
       ],
       "HEADER_SECONDARY": [
-      "#72eaf8"
+      "#ac88fc"
       ],
       "HOME_BACKGROUND": [
       "#19142c"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#00e6ff"
+      "#ac88fc"
       ],
       "INTERACTIVE_HOVER": [
-      "#72eaf8"
+      "#ac88fc"
       ],
       "INTERACTIVE_MUTED": [
-      "#6e6a86"
+      "#ac88fc"
       ],
       "INTERACTIVE_NORMAL": [
-      "#7e5f5f"
+      "#ac88fc"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#19142c"
@@ -90,7 +90,7 @@
       "#120707"
       ],
       "TEXT_DANGER": [
-      "#3c00ff"
+      "#ac88fc"
       ],
       "TEXT_LINK": [
       "#00e6ff"
