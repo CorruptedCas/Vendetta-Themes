@@ -1,6 +1,6 @@
 {
     "name": "PyxiRoyal",
-    "description": "Pyxi Royal - Blues, Purples and Gold.",
+    "description": "Pyxi Royal - Blue & Purple with Mint accents.",
     "authors": [
       {
         "name": "Lillie",
@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#ac88fc"
+      "#19142c"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#19142c"
@@ -45,13 +45,13 @@
       "#19142c"
       ],
       "BORDER_FAINT": [
-      "#3c00ff90"
+      "#6666ff90"
       ],
       "BORDER_STRONG": [
-      "#3c00ff90"
+      "#6666ff90"
       ],      
       "BORDER_SUBTLE": [
-      "#3c00ff90"
+      "#6666ff90"
       ],
       "CHANNEL_ICON": [
       "#ac88fc"
@@ -87,13 +87,13 @@
       "#19142c"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#120707"
+      "#0f0b21"
       ],
       "TEXT_DANGER": [
       "#ac88fc"
       ],
       "TEXT_LINK": [
-      "#6666ff90"
+      "#a1ffeb"
       ],
       "TEXT_MUTED": [
       "#6666ff"
@@ -103,98 +103,91 @@
       ],
       "TEXT_SECONDARY": [
       "#ac88fc"
-      ],
-      "CARD_PRIMARY_BG": [
-      "#19142c"
-      ],
-      "CARD_SECONDARY_BG": [
-      "#19142c"
       ]
     },
     "rawColors": {
-      "BRAND_260": "#6666ff90",
-      "BRAND_360": "#3c00ff",
-      "BRAND_500": "#6666ff90",
-      "GREEN_100": "#72eaf8",
-      "GREEN_130": "#6666ff90",
-      "GREEN_160": "#6666ff90",
-      "GREEN_200": "#6666ff90",
-      "GREEN_230": "#6666ff90",
-      "GREEN_260": "#6666ff90",
-      "GREEN_300": "#6666ff90",
-      "GREEN_330": "#6666ff90",
-      "GREEN_345": "#6666ff90",
-      "GREEN_360": "#6666ff90",
-      "GREEN_400": "#6666ff90",
-      "GREEN_430": "#6666ff90",
-      "GREEN_460": "#6666ff90",
-      "GREEN_500": "#6666ff90",
-      "GREEN_530": "#6666ff90",
-      "GREEN_560": "#6666ff90",
-      "GREEN_600": "#6666ff90",
-      "GREEN_630": "#6666ff90",
-      "GREEN_660": "#6666ff90",
-      "GREEN_700": "#6666ff90",
-      "GREEN_730": "#6666ff90",
-      "GREEN_760": "#6666ff90",
-      "GREEN_800": "#6666ff90",
-      "GREEN_830": "#6666ff90",
-      "GREEN_860": "#6666ff90",
-      "GREEN_900": "#6666ff90",
+      "BRAND_260": "#6666ff",
+      "BRAND_360": "#6666ff",
+      "BRAND_500": "#6666ff",
+      "GREEN_100": "#6666ff",
+      "GREEN_130": "#6666ff",
+      "GREEN_160": "#6666ff",
+      "GREEN_200": "#6666ff",
+      "GREEN_230": "#6666ff",
+      "GREEN_260": "#6666ff",
+      "GREEN_300": "#6666ff",
+      "GREEN_330": "#6666ff",
+      "GREEN_345": "#6666ff",
+      "GREEN_360": "#6666ff",
+      "GREEN_400": "#6666ff",
+      "GREEN_430": "#6666ff",
+      "GREEN_460": "#6666ff",
+      "GREEN_500": "#6666ff",
+      "GREEN_530": "#6666ff",
+      "GREEN_560": "#6666ff",
+      "GREEN_600": "#6666ff",
+      "GREEN_630": "#6666ff",
+      "GREEN_660": "#6666ff",
+      "GREEN_700": "#6666ff",
+      "GREEN_730": "#6666ff",
+      "GREEN_760": "#6666ff",
+      "GREEN_800": "#6666ff",
+      "GREEN_830": "#6666ff",
+      "GREEN_860": "#6666ff",
+      "GREEN_900": "#6666ff",
       "PRIMARY_100": "#610017",
-      "PRIMARY_230": "#3c00ff",
-      "PRIMARY_300": "#72eaf8",
-      "PRIMARY_360": "#72eaf8",    
-      "PRIMARY_400": "#72eaf8",
+      "PRIMARY_230": "#6666ff",
+      "PRIMARY_300": "#a1ffeb",
+      "PRIMARY_360": "#a1ffeb",    
+      "PRIMARY_400": "#a1ffeb",
       "PRIMARY_460": "#19142c",
-      "PRIMARY_500": "#3c00ff",
+      "PRIMARY_500": "#6666ff",
       "PRIMARY_600": "#19142c",
       "PRIMARY_630": "#19142c",
       "PRIMARY_660": "#19142c",
       "PRIMARY_700": "#19142c",
       "PRIMARY_800": "#19142c",
-      "RED_260": "#6666ff90",
-      "RED_300": "#6666ff90",
-      "RED_330": "#6666ff90",
-      "RED_345": "#6666ff90",
-      "RED_360": "#6666ff90",
-      "RED_400": "#6666ff90",
-      "RED_430": "#6666ff90",
-      "RED_460": "#6666ff90",
-      "RED_500": "#6666ff90",
-      "RED_530": "#6666ff90",
-      "RED_560": "#6666ff90",
-      "RED_600": "#6666ff90",
-      "RED_630": "#6666ff90",
-      "RED_660": "#6666ff90",
-      "RED_700": "#6666ff90",
-      "YELLOW_100": "#3c00ff",
-      "YELLOW_130": "#3c00ff",
-      "YELLOW_160": "#3c00ff",
-      "YELLOW_200": "#3c00ff",
-      "YELLOW_230": "#3c00ff",
-      "YELLOW_260": "#3c00ff",
-      "YELLOW_300": "#3c00ff4d",
-      "YELLOW_330": "#3c00ff",
-      "YELLOW_345": "#3c00ff",
-      "YELLOW_360": "#3c00ff",
-      "YELLOW_400": "#3c00ff",
-      "YELLOW_430": "#3c00ff",
-      "YELLOW_460": "#3c00ff",
-      "YELLOW_500": "#3c00ff",
-      "YELLOW_530": "#3c00ff",
-      "YELLOW_560": "#3c00ff",
-      "YELLOW_600": "#3c00ff",
-      "YELLOW_630": "#3c00ff",
-      "YELLOW_660": "#3c00ff",
-      "YELLOW_700": "#3c00ff",
-      "YELLOW_730": "#3c00ff",
-      "YELLOW_760": "#3c00ff",
-      "YELLOW_800": "#3c00ff",
-      "YELLOW_830": "#3c00ff",
-      "YELLOW_860": "#3c00ff",
-      "YELLOW_900": "#3c00ff",
-      "WHITE_500": "#ac88fc",
+      "RED_260": "#6666ff",
+      "RED_300": "#6666ff",
+      "RED_330": "#6666ff",
+      "RED_345": "#6666ff",
+      "RED_360": "#6666ff",
+      "RED_400": "#6666ff",
+      "RED_430": "#6666ff",
+      "RED_460": "#6666ff",
+      "RED_500": "#6666ff",
+      "RED_530": "#6666ff",
+      "RED_560": "#6666ff",
+      "RED_600": "#6666ff",
+      "RED_630": "#6666ff",
+      "RED_660": "#6666ff",
+      "RED_700": "#6666ff",
+      "YELLOW_100": "#6666ff",
+      "YELLOW_130": "#6666ff",
+      "YELLOW_160": "#6666ff",
+      "YELLOW_200": "#6666ff",
+      "YELLOW_230": "#6666ff",
+      "YELLOW_260": "#6666ff",
+      "YELLOW_300": "#6666ff",
+      "YELLOW_330": "#6666ff",
+      "YELLOW_345": "#6666ff",
+      "YELLOW_360": "#6666ff",
+      "YELLOW_400": "#6666ff",
+      "YELLOW_430": "#6666ff",
+      "YELLOW_460": "#6666ff",
+      "YELLOW_500": "#6666ff",
+      "YELLOW_530": "#6666ff",
+      "YELLOW_560": "#6666ff",
+      "YELLOW_600": "#6666ff",
+      "YELLOW_630": "#6666ff",
+      "YELLOW_660": "#6666ff",
+      "YELLOW_700": "#6666ff",
+      "YELLOW_730": "#6666ff",
+      "YELLOW_760": "#6666ff",
+      "YELLOW_800": "#6666ff",
+      "YELLOW_830": "#6666ff",
+      "YELLOW_860": "#6666ff",
+      "YELLOW_900": "#6666ff",
        "PLUM_13": "#181818",
         "PLUM_15": "#19142c",
         "PLUM_16": "#19142c",
