@@ -1,0 +1,202 @@
+{
+    "name": "PyxiRoyal_215+",
+    "description": "Pyxi Royal - Blue & Purple with Mint accents.",
+    "authors": [
+      {
+        "name": "Lillie",
+        "id": "254623459190112257"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#19142c"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#19142c"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#19142c"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#19142c"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#19142c"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#19142c"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#19142c"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#19142c"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#19142c"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#19142c"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#19142c"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#19142c"
+      ],
+      "BORDER_FAINT": [
+      "#6666ff90"
+      ],
+      "BORDER_STRONG": [
+      "#6666ff90"
+      ],      
+      "BORDER_SUBTLE": [
+      "#6666ff90"
+      ],
+      "CHANNEL_ICON": [
+      "#ac88fc"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#ac88fc"
+      ],
+      "CHAT_BACKGROUND": [
+      "#19142c"
+      ],
+      "HEADER_PRIMARY": [
+      "#ac88fc"
+      ],
+      "HEADER_SECONDARY": [
+      "#ac88fc"
+      ],
+      "HOME_BACKGROUND": [
+      "#19142c"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#ac88fc"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#ac88fc"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#ac88fc"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#ac88fc"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#19142c"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#0f0b21"
+      ],
+      "TEXT_DANGER": [
+      "#ac88fc"
+      ],
+      "TEXT_LINK": [
+      "#a1ffeb"
+      ],
+      "TEXT_MUTED": [
+      "#6666ff"
+      ],
+      "TEXT_NORMAL": [
+      "#ac88fc"
+      ],
+      "TEXT_SECONDARY": [
+      "#ac88fc"
+      ]
+    },
+    "rawColors": {
+      "BRAND_260": "#FF6666",
+      "BRAND_360": "#6666ff",
+      "BRAND_500": "rgba(102,102,255,0.56)",
+      "GREEN_100": "#6666ff",
+      "GREEN_130": "#6666ff",
+      "GREEN_160": "#6666ff",
+      "GREEN_200": "#6666ff",
+      "GREEN_230": "#6666ff",
+      "GREEN_260": "#6666ff",
+      "GREEN_300": "#6666ff",
+      "GREEN_330": "#6666ff",
+      "GREEN_345": "#6666ff",
+      "GREEN_360": "#6666ff",
+      "GREEN_400": "#6666ff",
+      "GREEN_430": "#6666ff",
+      "GREEN_460": "#6666ff",
+      "GREEN_500": "#6666ff",
+      "GREEN_530": "#6666ff",
+      "GREEN_560": "#6666ff",
+      "GREEN_600": "#6666ff",
+      "GREEN_630": "#6666ff",
+      "GREEN_660": "#6666ff",
+      "GREEN_700": "#6666ff",
+      "GREEN_730": "#6666ff",
+      "GREEN_760": "#6666ff",
+      "GREEN_800": "#6666ff",
+      "GREEN_830": "#6666ff",
+      "GREEN_860": "#6666ff",
+      "GREEN_900": "#6666ff",
+      "PRIMARY_100": "#610017",
+      "PRIMARY_230": "#6666ff",
+      "PRIMARY_300": "#a1ffeb",
+      "PRIMARY_360": "#a1ffeb",    
+      "PRIMARY_400": "#a1ffeb",
+      "PRIMARY_460": "#19142c",
+      "PRIMARY_500": "#6666ff",
+      "PRIMARY_600": "#19142c",
+      "PRIMARY_630": "#19142c",
+      "PRIMARY_660": "#19142c",
+      "PRIMARY_700": "#19142c",
+      "PRIMARY_800": "#19142c",
+      "RED_260": "#6666ff",
+      "RED_300": "#6666ff",
+      "RED_330": "#6666ff",
+      "RED_345": "#6666ff",
+      "RED_360": "#6666ff",
+      "RED_400": "#6666ff",
+      "RED_430": "#6666ff",
+      "RED_460": "#6666ff",
+      "RED_500": "#6666ff",
+      "RED_530": "#6666ff",
+      "RED_560": "#6666ff",
+      "RED_600": "#6666ff",
+      "RED_630": "#6666ff",
+      "RED_660": "#6666ff",
+      "RED_700": "#6666ff",
+      "YELLOW_100": "#6666ff",
+      "YELLOW_130": "#6666ff",
+      "YELLOW_160": "#6666ff",
+      "YELLOW_200": "#6666ff",
+      "YELLOW_230": "#6666ff",
+      "YELLOW_260": "#6666ff",
+      "YELLOW_300": "#6666ff",
+      "YELLOW_330": "#6666ff",
+      "YELLOW_345": "#6666ff",
+      "YELLOW_360": "#6666ff",
+      "YELLOW_400": "#6666ff",
+      "YELLOW_430": "#6666ff",
+      "YELLOW_460": "#6666ff",
+      "YELLOW_500": "#6666ff",
+      "YELLOW_530": "#6666ff",
+      "YELLOW_560": "#6666ff",
+      "YELLOW_600": "#6666ff",
+      "YELLOW_630": "#6666ff",
+      "YELLOW_660": "#6666ff",
+      "YELLOW_700": "#6666ff",
+      "YELLOW_730": "#6666ff",
+      "YELLOW_760": "#6666ff",
+      "YELLOW_800": "#6666ff",
+      "YELLOW_830": "#6666ff",
+      "YELLOW_860": "#6666ff",
+      "YELLOW_900": "#6666ff",
+       "PLUM_13": "#181818",
+        "PLUM_15": "#19142c",
+        "PLUM_16": "#19142c",
+        "PLUM_17": "#19142c",
+        "PLUM_18": "#19142c",
+        "PLUM_19": "#19142c",
+        "PLUM_20": "#19142c",
+        "PLUM_22": "#19142c",
+        "PLUM_23": "#19142c"
+    },
+    "spec": 2
+}
