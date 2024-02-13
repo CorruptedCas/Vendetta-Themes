@@ -1,7 +1,3 @@
-# Just Random Vendetta Themes IG 
+# Working New UI Themes
 
-
-
-• I created some with ChatGPT that look absoutely horrible 💀
-
-• And then my own ones
+- Finally unlazy!
